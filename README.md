@@ -6,10 +6,6 @@ This is a chatbot app built using Streamlit and OpenAI API. The app allows users
 
 ## Deployment
 
-This app has been deployed on Streamlit IO cloud. You can access the live version [here](https://chatgpt-app-zr6undfgp9sbwdjjqz3etg.streamlit.app/)
-
-
-##  Usage
 To run the app locally, follow these steps:
 
 * Clone the repository
