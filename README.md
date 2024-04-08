@@ -32,5 +32,5 @@ OPENAI_API_KEY = "xxx"
 ```bash
   localhost:8501
 ```
-##Acknowledgements
+## Acknowledgements
 I would like to acknowledge Chanin Nantasenamat from dataprofessor, majority of the code in this project is adapted from his GitHub repository  [link](https://github.com/dataprofessor/openai-chatbot.git)
